@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+##### screenshots about this app in demo screenshot folder and an .mp4 for the animation
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+the same idea of the hola chat application. but here iam shure that i can flutter you now to become chat application and save you on firebase
+- i learn here a little bit about animation [Hero animation] to make [Z photo] translate from welcome screen to login screen.
+- i learn how to make custom animation. but iam not so good at it till now.
+- i learn how to use AnimatedTextKit package to animate the text.
+- i want to use chatbubble package to make the chat bubble but i make it by using container and it's decoration property

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "874837555492",
+    "project_id": "zflash-chat-app",
+    "storage_bucket": "zflash-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874837555492:android:108913662852ca1aa85bb1",
+        "android_client_info": {
+          "package_name": "com.example.zflash_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874837555492-blfktjmf9i5duu9a1fpfh2kfttmnuvga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwfCaxa4tMGFvTgygN4Z7SVs75McpuVnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874837555492-blfktjmf9i5duu9a1fpfh2kfttmnuvga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "874837555492-5qefvemr077llvfghjjt9qqtnu3mt74c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zflashApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
